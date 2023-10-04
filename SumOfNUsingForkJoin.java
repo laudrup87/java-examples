@@ -16,7 +16,7 @@ import java.util.concurrent.ForkJoinPool;
 
 class SumOfNUsingForkJoin {
 
-    private static final long N = 1000_000; //the target to sum, usually be the program parameter
+    private static final long N = 1000_000; //the target to sum, usually the program parameter
 
     public static void main(String[] args) {
 
